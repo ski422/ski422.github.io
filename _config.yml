@@ -80,15 +80,25 @@ content:
         description: | # this will include new lines to allow paragraphs
 #In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
 
-  - title: Publicationss # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 
+        title: Conference Papers
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
           [OSDI 2024] Minwoo Ahn, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong, "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples"
+
+          [USENIX FAST 2021] Jiwon Woo, Minwoo Ahn, Gyusun Lee, and Jinkyu Jeong, "D2FQ: Device-Direct Fair Queueing for NVMe SSDs"
+      - layout: top-middle
+        title: Journal Papers
+        caption:
+        sub_title:
+        description: | # this will include new lines to allow paragraphs
+          [IEEE Access] Jaehyun Song, Minwoo Ahn, Gyusun Lee, Euiseong Seo, and Jinkyu Jeong, "A Performance-Stable NUMA Management Scheme for Linux-Based HPC Systems"
+
+          [Software: Practice and Experience] Minwoo Ahn, Donghyun Kim, Taekeun Nam, and Jinkyu Jeong, "SCOZ: A System-Wide Causal Profiler for Multicore Systems"
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
