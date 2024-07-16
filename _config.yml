@@ -57,7 +57,7 @@ content:
   - title: Research Experience
     layout: list
     content:
-	  - layout: left
+      - layout: left
         title: Scalable Systems Software Laboratory (in Yonsei Univ.)
         caption: Mar. 2023 - Present
         sub_title: Dispatched Researcher (Advisor: Jinkyu Jeong)
