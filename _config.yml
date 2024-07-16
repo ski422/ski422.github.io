@@ -62,9 +62,9 @@ content:
         caption: 2017 - Present
         sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          - Advisor: Jinkyu Jeong (in Yonsei University)
-
           - Proposal: Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
+
+          - Advisor: Jinkyu Jeong (in Yonsei University)
       - layout: left
         title: Sungkyunkwan University
         caption: 2013 - 2017
@@ -80,16 +80,17 @@ content:
         description: | # this will include new lines to allow paragraphs
 #In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
 
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: Blocked Samples
-#        caption: 2017 - Present
-#        sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
-#        description: | # this will include new lines to allow paragraphs
-#		  Advisor Jinkyu Jeong (in Yonsei University)
-#		  Proposal - Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
+  - title: Publicationss # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 
+        caption:
+        sub_title:
+        description: | # this will include new lines to allow paragraphs
+          \textbf{Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples}
+
+            - \textbf{Minwoo Ahn}, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
