@@ -54,6 +54,22 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Research Experience
+    layout: list
+    content:
+	  - layout: left
+        title: Scalable Systems Software Laboratory (in Yonsei Univ.)
+        caption: Mar. 2023 - Present
+        sub_title: Dispatched Researcher (Advisor: Jinkyu Jeong)
+        description: |
+          - 
+      - layout: left
+        title: Computer Systems Laboratory
+        caption: Mar. 2017 - Feb. 2023
+        sub_title: Graduate Student Researcher (Advisor: Jinkyu Jeong)
+        description: |
+          - 
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,32 +104,32 @@ content:
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          [OSDI 2024] Minwoo Ahn, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong, "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples"
+          - [OSDI 2024] Minwoo Ahn, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong, "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples"
 
-          [USENIX FAST 2021] Jiwon Woo, Minwoo Ahn, Gyusun Lee, and Jinkyu Jeong, "D2FQ: Device-Direct Fair Queueing for NVMe SSDs"
+          - [USENIX FAST 2021] Jiwon Woo, Minwoo Ahn, Gyusun Lee, and Jinkyu Jeong, "D2FQ: Device-Direct Fair Queueing for NVMe SSDs"
       - layout: top-middle
         title: Journal Papers
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          Jaehyun Song, Minwoo Ahn, Gyusun Lee, Euiseong Seo, and Jinkyu Jeong, "A Performance-Stable NUMA Management Scheme for Linux-Based HPC Systems," IEEE Access, vol. 9, pp. 52987-53002, March 2021, doi:10.1109/ACCESS.2021.3069991
+          - Jaehyun Song, Minwoo Ahn, Gyusun Lee, Euiseong Seo, and Jinkyu Jeong, "A Performance-Stable NUMA Management Scheme for Linux-Based HPC Systems," IEEE Access, vol. 9, pp. 52987-53002, March 2021, doi:10.1109/ACCESS.2021.3069991
 
-          Minwoo Ahn, Donghyun Kim, Taekeun Nam, and Jinkyu Jeong, "SCOZ: A System-Wide Causal Profiler for Multicore Systems," Software: Practice and Experience, vol. 51, issue 5, pp. 1043-1058, May 2021, doi:10.1002/spe.2930
+          - Minwoo Ahn, Donghyun Kim, Taekeun Nam, and Jinkyu Jeong, "SCOZ: A System-Wide Causal Profiler for Multicore Systems," Software: Practice and Experience, vol. 51, issue 5, pp. 1043-1058, May 2021, doi:10.1002/spe.2930
 
       - layout: top-middle
         title: Domestic Papers (Korean)
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Parallel Filter/Index Access for Improving Read Performance of LSM-Tree," KIISE Transactions on Computing Practice (KTCP), Sep. 2023.
+          - Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Parallel Filter/Index Access for Improving Read Performance of LSM-Tree," KIISE Transactions on Computing Practice (KTCP), Sep. 2023.
             - Invited Paper (Excellent Presentation Award)
 
-          Sangyoon Kwon, Minwoo Ahn, and Jinkyu Jeong, "GPU Kernel Speedup Predcition using GPU Causal Profiling," Korea Software Congress, Dec. 2022.
+          - Sangyoon Kwon, Minwoo Ahn, and Jinkyu Jeong, "GPU Kernel Speedup Predcition using GPU Causal Profiling," Korea Software Congress, Dec. 2022.
 
-          Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Multi-Level Filter Access in LSM-tree using Asynchronous I/O," Korea Software Congress, Dec. 2022.
+          - Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Multi-Level Filter Access in LSM-tree using Asynchronous I/O," Korea Software Congress, Dec. 2022.
             - Excellent Presentation Award
 
-          Sungyoon Kim, Sungjun Ha, Minwoo Ahn, and Jinkyu Jeong, "I/O Polling Task Placement on Hyperthreading-Enabled Multicore CPU," Korea Computer Congress, July. 2019.
+          - Sungyoon Kim, Sungjun Ha, Minwoo Ahn, and Jinkyu Jeong, "I/O Polling Task Placement on Hyperthreading-Enabled Multicore CPU," Korea Computer Congress, July. 2019.
             - Excellent Paper Award
 
 
@@ -123,8 +139,30 @@ content:
       - layout: top-middle
         title: 
         description: | # this will include new lines to allow paragraphs
-          Korea Exascale Application Software Development Environments
+          - Korea Exascale Application Software Development Environments
+            - Keywords: performance profiling, HPC
+            - Goal: Performance profiling framework for exa-scale HPC applications.
+            - National Research Foundation of Korea (NRF), Nov 2023 - Apr 2028
 
+          - Research of Key-Value Stores for Exa-Scale SSDs
+            - Keywords: NoSQL DBMS, storage systems, memory management
+            - Goal: Cost-effective memory management of large-scale DBMS with peta-scale SSDs.
+            - Samsung Electrocis, Aug 2022 - Jul 2024
+
+          - Causal Profiling for Heterogeneous Systems
+            - Keywords: performance profiling, causal profiling, domain-specific accelerators
+            - Goal: Developing causal profiler for heterogeneous systems that include SSDs along with GPU and FPGA.
+            - National Research Foundation of Korea (NRF)
+
+          - Application's Performance Profiling and Optimization for Next-Generation SSDs
+            - Keywords: storage systems, performance profiling, NoSQL DBMS
+            - Goal: Performance profiling and optimization of applications with ultra-low latency SSDs.
+            - Samsung Electronics, Aug 2020 - Jul 2022
+
+          - High Performance Computing Environment and Storage System
+            - Keywords: high-performance computing, OS noise, memory management, CPU scheduling
+            - Goal: Light-weighted Linux kernel for heterogeneous high-performance computing.
+            - National Research Foundation of Korea (NRF), Mar 2017 - Jun 2021
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
