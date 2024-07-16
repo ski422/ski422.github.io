@@ -62,13 +62,13 @@ content:
         caption: Mar. 2023 - Present
         sub_title: Dispatched Researcher (Advisor: Jinkyu Jeong)
         description: |
-          - 
+          a
       - layout: left
         title: Computer Systems Laboratory
         caption: Mar. 2017 - Feb. 2023
         sub_title: Graduate Student Researcher (Advisor: Jinkyu Jeong)
         description: |
-          - 
+          a
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
