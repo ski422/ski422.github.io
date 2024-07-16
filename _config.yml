@@ -62,8 +62,8 @@ content:
         caption: 2017 - Present
         sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
         description: | # this will include new lines to allow paragraphs
-		  Advisor - Jinkyu Jeong (in Yonsei University)
-		  Proposal - Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
+          Advisor - Jinkyu Jeong (in Yonsei University)
+          Proposal - Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
 #      - layout: left
 #        title: Sungkyunkwan University
 #        caption: 2013 - 2017
