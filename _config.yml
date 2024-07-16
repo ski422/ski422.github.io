@@ -58,17 +58,16 @@ content:
     layout: list
     content:
       - layout: left
-        title: S3 Laboratory
+        title: Scalable Systems Software Laboratory
         caption: Mar. 2023 - Present
-        sub_title: Scalable Systems Software Lab. (Advised by Jinkyu Jeong)
-        description: |
-          a
+        sub_title: Dispatched Researcher (Advised by Jinkyu Jeong)
+        description:
+        
       - layout: left
-        title: CSL
+        title: Computer Systems Laboratory
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Computer Systems Lab. (Advised by Jinkyu Jeong)
-        description: |
-          a
+        sub_title: Graduated Researcher (Advised by Jinkyu Jeong)
+        description:
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
