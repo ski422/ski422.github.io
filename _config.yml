@@ -60,13 +60,13 @@ content:
       - layout: left
         title: S3 Laboratory
         caption: Mar. 2023 - Present
-        sub_title: Scalable Systems Software Lab. (Advisor: Jinkyu Jeong)
+        sub_title: Scalable Systems Software Lab. (Advised by Jinkyu Jeong)
         description: |
           a
       - layout: left
         title: CSL
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Computer Systems Lab. (Advisor: Jinkyu Jeong)
+        sub_title: Computer Systems Lab. (Advised by Jinkyu Jeong)
         description: |
           a
 
