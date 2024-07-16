@@ -58,15 +58,15 @@ content:
     layout: list
     content:
       - layout: left
-        title: Scalable Systems Software Laboratory (in Yonsei Univ.)
+        title: S3 Laboratory
         caption: Mar. 2023 - Present
-        sub_title: Dispatched Researcher (Advisor: Jinkyu Jeong)
+        sub_title: Scalable Systems Software Lab. (Advisor: Jinkyu Jeong)
         description: |
           a
       - layout: left
-        title: Computer Systems Laboratory
+        title: CSL
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Graduate Student Researcher (Advisor: Jinkyu Jeong)
+        sub_title: Computer Systems Lab. (Advisor: Jinkyu Jeong)
         description: |
           a
 
