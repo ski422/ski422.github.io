@@ -100,24 +100,31 @@ content:
 
           Minwoo Ahn, Donghyun Kim, Taekeun Nam, and Jinkyu Jeong, "SCOZ: A System-Wide Causal Profiler for Multicore Systems," Software: Practice and Experience, vol. 51, issue 5, pp. 1043-1058, May 2021, doi:10.1002/spe.2930
 
+      - layout: top-middle
+        title: Domestic Papers (Korean)
+        caption:
+        sub_title:
+        description: | # this will include new lines to allow paragraphs
+          Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Parallel Filter/Index Access for Improving Read Performance of LSM-Tree," KIISE Transactions on Computing Practice (KTCP), Sep. 2023.
+            - Invited Paper (Excellent Presentation Award)
+
+          Sangyoon Kwon, Minwoo Ahn, and Jinkyu Jeong, "GPU Kernel Speedup Predcition using GPU Causal Profiling," Korea Software Congress, Dec. 2022.
+
+          Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Multi-Level Filter Access in LSM-tree using Asynchronous I/O," Korea Software Congress, Dec. 2022.
+            - Excellent Presentation Award
+
+          Sungyoon Kim, Sungjun Ha, Minwoo Ahn, and Jinkyu Jeong, "I/O Polling Task Placement on Hyperthreading-Enabled Multicore CPU," Korea Computer Congress, July. 2019.
+            - Excellent Paper Award
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Korea Exascale Application Software Development Environments
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
