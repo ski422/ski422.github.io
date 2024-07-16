@@ -50,7 +50,7 @@ about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Sungkyunkwan University and also a member of Scalable Systems Software Laboratory at Yonsei University advised by prof. Jinkyu Jeong. I received my B.S. degree in the Department of Semi-conductor Systems Engineering at Sungkyunkwan University.
 
-  My research areas are encompassing operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
+  My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
