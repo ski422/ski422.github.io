@@ -54,15 +54,15 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Sungkyunkwan University
-        caption: 2017 - Present
-        sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
-        description: | # this will include new lines to allow paragraphs
-		  Advisor Jinkyu Jeong (in Yonsei University)
+#  - title: Education # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Sungkyunkwan University
+#        caption: 2017 - Present
+#       sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
+#       description: | # this will include new lines to allow paragraphs
+#		  Advisor Jinkyu Jeong (in Yonsei University)
 #		  Proposal - Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
 #      - layout: left
 #        title: Sungkyunkwan University
@@ -78,15 +78,15 @@ content:
 #        description: | # this will include new lines to allow paragraphs
 #		  In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Blocked Samples
-        caption: 2017 - Present
-        sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
-        description: | # this will include new lines to allow paragraphs
-		  Advisor Jinkyu Jeong (in Yonsei University)
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Blocked Samples
+#        caption: 2017 - Present
+#        sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
+#        description: | # this will include new lines to allow paragraphs
+#		  Advisor Jinkyu Jeong (in Yonsei University)
 #		  Proposal - Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
 
   - title: Projects # Title for the section
