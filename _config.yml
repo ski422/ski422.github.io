@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Minwoo Ahn
-title: Ph.D. Candidate in Computer Science at Sungkyunkwan University.
+title: Systems Software Researcher
 email: mwahn402@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -50,10 +50,45 @@ about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Sungkyunkwan University and also a member of Scalable Systems Software Laboratory at Yonsei University advised by prof. Jinkyu Jeong. I received my B.S. degree in the Department of Semi-conductor Systems Engineering at Sungkyunkwan University.
 
-  My main research areas are encompassing operating systems, storage systems, database systems, and performance analysis.
+  My research areas are encompassing operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Sungkyunkwan University
+        caption: 2017 - Present
+        sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
+        description: | # this will include new lines to allow paragraphs
+		  Advisor: Jinkyu Jeong (in Yonsei University)
+		  Proposal: Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
+	- layout: left
+        title: Sungkyunkwan University
+        caption: 2013 - 2017
+        sub_title: BS in Semiconductor Systems Engineering
+        description: | # this will include new lines to allow paragraphs
+		  Relevant Courseworks: Operating Systems, Computer Architecture, Multicore Systems, Embedded Systems
+		  Graduation project: Implementation of user-level I/O (NVMeDirect) enabled in-memory key-value store. 
+      - layout: left
+        title: Korea Science Academy of KAIST (KSA)
+        caption: 2010 - 2013
+#        sub_title: BS in Semiconductor Systems Engineering
+        description: | # this will include new lines to allow paragraphs
+		  In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Blocked Samples
+        caption: 2017 - Present
+        sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
+        description: | # this will include new lines to allow paragraphs
+		  Advisor: Jinkyu Jeong (in Yonsei University)
+		  Proposal: Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -86,20 +121,6 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
