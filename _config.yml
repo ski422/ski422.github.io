@@ -88,9 +88,7 @@ content:
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          \textbf{Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples}
-
-            - \textbf{Minwoo Ahn}, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong
+          [OSDI 2024] Minwoo Ahn, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong, "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples"
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
