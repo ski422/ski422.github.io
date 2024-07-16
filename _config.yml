@@ -96,9 +96,9 @@ content:
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          [IEEE Access] Jaehyun Song, Minwoo Ahn, Gyusun Lee, Euiseong Seo, and Jinkyu Jeong, "A Performance-Stable NUMA Management Scheme for Linux-Based HPC Systems"
+          Jaehyun Song, Minwoo Ahn, Gyusun Lee, Euiseong Seo, and Jinkyu Jeong, "A Performance-Stable NUMA Management Scheme for Linux-Based HPC Systems," IEEE Access, vol. 9, pp. 52987-53002, March 2021, doi:10.1109/ACCESS.2021.3069991
 
-          [Software: Practice and Experience] Minwoo Ahn, Donghyun Kim, Taekeun Nam, and Jinkyu Jeong, "SCOZ: A System-Wide Causal Profiler for Multicore Systems"
+          Minwoo Ahn, Donghyun Kim, Taekeun Nam, and Jinkyu Jeong, "SCOZ: A System-Wide Causal Profiler for Multicore Systems," Software: Practice and Experience, vol. 51, issue 5, pp. 1043-1058, May 2021, doi:10.1002/spe.2930
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
