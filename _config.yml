@@ -63,20 +63,22 @@ content:
         sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
         description: | # this will include new lines to allow paragraphs
           Advisor - Jinkyu Jeong (in Yonsei University)
+
           Proposal - Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
-#      - layout: left
-#        title: Sungkyunkwan University
-#        caption: 2013 - 2017
-#        sub_title: BS in Semiconductor Systems Engineering
-#        description: | # this will include new lines to allow paragraphs
-#		  Relevant Courseworks  Operating Systems, Computer Architecture, Multicore Systems, Embedded Systems
-#		  Graduation project - Implementation of user-level I/O (NVMeDirect) enabled in-memory key-value store
-#      - layout: left
-#        title: Korea Science Academy of KAIST (KSA)
-#        caption: 2010 - 2013
-#        sub_title: BS in Semiconductor Systems Engineering
-#        description: | # this will include new lines to allow paragraphs
-#		  In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
+      - layout: left
+        title: Sungkyunkwan University
+        caption: 2013 - 2017
+        sub_title: BS in Semiconductor Systems Engineering
+        description: | # this will include new lines to allow paragraphs
+          Relevant Courseworks  Operating Systems, Computer Architecture, Multicore Systems, Embedded Systems
+
+          Graduation project - Implementation of user-level I/O (NVMeDirect) enabled in-memory key-value store
+      - layout: left
+        title: Korea Science Academy of KAIST (KSA)
+        caption: 2010 - 2013
+        sub_title: BS in Semiconductor Systems Engineering
+        description: | # this will include new lines to allow paragraphs
+          In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
 
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
