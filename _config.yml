@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 
   - Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
-  - The PDF version of CV is available at [here](https://github.com/ski422).
+  - The PDF version of CV is available at [here](https://github.com/ski422/ski422.github.io/blob/master/CV.pdf).
 
 content:
   - title: Research Experience
