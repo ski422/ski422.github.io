@@ -22,7 +22,7 @@ github_username:  ski422
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: minwoo-ahn-684b17317
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 
   - Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
-  - The PDF version of CV is available at [here](https://github.com/ski422/ski422.github.io/blob/master/CV.pdf).
+  - The PDF version of CV is available at [here](https://drive.google.com/file/d/1v-ZqCz67k-HgZ1Z_a8UyFCiVzUBUib5U/view?usp=sharing).
 
 content:
   - title: Research Experience
