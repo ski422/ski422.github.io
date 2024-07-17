@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 
-  - Research Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
+  - Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
   - The PDF version of CV is available at here.
 
 content:
@@ -199,20 +199,13 @@ content:
   - title: Teaching Experiences (TA)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - System Programming Experiment - 2022
-        - Introduction of UNIX programming
-      - JAVA Programming Experiment - 2022
-        - Basics of object-oriented programming (JAVA)
-      - Embedded Systems Design - 2018
-        - FTL design in OpenSSD (Jasmine)
-      - Embedded Systems Experiment - 2018, 2019, 2020, 2021
-        - Android kernel programming (virtual device)
-      - Operating Systems - 2017, 2018
-        - Design of operating systems and exercises with xv6
-      - Computer Architecture - 2017, 2019, 2020
-        - Design of computer architecture and implementation of MIPS architecture
-      - System Software Experiment 3 - 2017, 2018
-        - Basics of object-oriented programming (C++)
+      - System Programming Experiment - Introduction of UNIX programming, 2022
+      - JAVA Programming Experiment - Basics of object-oriented programming (JAVA), 2022
+      - Embedded Systems Design - FTL design in OpenSSD (Jasmine), 2018
+      - Embedded Systems Experiment - Android kernel programming (virtual device), 2018, 2019, 2020, 2021
+      - Operating Systems - Design of operating systems and exercises with xv6, 2017, 2018
+      - Computer Architecture - Design of computer architecture and implementation of MIPS architecture, 2017, 2019, 2020
+      - System Software Experiment 3 - Basics of object-oriented programming (C++), 2017, 2018
 
   - title: Technical Skills
     layout: text
