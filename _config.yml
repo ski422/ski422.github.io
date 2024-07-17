@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
   - Research Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
-  - The PDF version of CV is available at here.
+  - The PDF version of CV is available at [here].
 
 content:
   - title: Research Experience
@@ -63,17 +63,13 @@ content:
       - layout: left
         title: Scalable Systems Software Laboratory
         caption: Mar. 2023 - Present
-        sub_title: Dispatched Researcher 
-        
-        (Advised by Jinkyu Jeong)
+        sub_title: Dispatched Researcher (Advised by Jinkyu Jeong)
         description:
         
       - layout: left
         title: Computer Systems Laboratory
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Graduated Researcher
-
-        (Advised by Jinkyu Jeong)
+        sub_title: Graduated Researcher (Advised by Jinkyu Jeong)
         description:
 
   - title: Education # Title for the section
@@ -170,31 +166,61 @@ content:
             - Goal: Light-weighted Linux kernel for heterogeneous high-performance computing.
             - National Research Foundation of Korea (NRF), Mar 2017 - Jun 2021
 
-  - title: Experience # Title for the section
+  - title: Presentations and Invited Talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+      - layout: top-middle
+        title: 
+#link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#sub_title: Senior Network System Administrator
+#caption: November 2017 - Present
+#quote: >
+#Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - [Conference Talk, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
+          - [Poster Session, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
+          - [Workshop, KCC \'24] "Light-weighted Causal Profiler for Exascale Computing", Jun 2024
+          - [Invited Talk, KCC \'21] "D2FQ: Device-Direct Fair Queueing for NVMe SSDs", June 2022
 
-  - title: A Little More About Me
+  - title: Awards and Honors
+    layout: text
+    content: |
+      - Excellent Poster Prize - Computer Systems Society, 2024
+      - Excellent Presentation Prize - Korea Software Congress, 2022
+      - Excellent Paper Prize - Korea Software Congress, 2019
+      - Grand Prize (2nd place) - Korea Supercomputing Challenge, 2018
+
+  - title: Awards and Honors
+    layout: text
+    content: |
+      - SKKU Scholarship, Mar. 2017 - Feb. 2020
+      - Samsung Electronics Scholarship, Mar. 2016 - Feb. 2017
+
+  - title: Teaching Experiences (TA)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - System Programming Experiment - 2022
+        - Introduction of UNIX programming
+      - JAVA Programming Experiment - 2022
+        - Basics of object-oriented programming (JAVA)
+      - Embedded Systems Design - 2018
+        - FTL design in OpenSSD (Jasmine)
+      - Embedded Systems Experiment - 2018, 2019, 2020, 2021
+        - Android kernel programming (virtual device)
+      - Operating Systems - 2017, 2018
+        - Design of operating systems and exercises with xv6
+      - Computer Architecture - 2017, 2019, 2020
+        - Design of computer architecture and implementation of MIPS architecture
+      - System Software Experiment 3 - 2017, 2018
+        - Basics of object-oriented programming (C++)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Technical Skills
+    layout: text
+    content: |
+      - Languages: C, C++, Java, Python, Kotlin
+      - Skills: Linux kernel programming, System profiling (Linux perf, eBPF), android kernel programming, FTL programming
+
 
 # Footer
 footer_show_references: true
