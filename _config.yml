@@ -105,9 +105,9 @@ content:
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          - [OSDI 2024] Minwoo Ahn, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong, "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples"
+          - [OSDI 2024] Minwoo Ahn, Jeongmin Han, Youngjin Kwon, and Jinkyu Jeong, "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples," in Proceedings of the 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2024), July 2024
 
-          - [USENIX FAST 2021] Jiwon Woo, Minwoo Ahn, Gyusun Lee, and Jinkyu Jeong, "D2FQ: Device-Direct Fair Queueing for NVMe SSDs"
+          - [USENIX FAST 2021] Jiwon Woo, Minwoo Ahn, Gyusun Lee, and Jinkyu Jeong, "D2FQ: Device-Direct Fair Queueing for NVMe SSDs," in Proceedings of 19th USENIX Conference on File and Storage Technologies (FAST 2021), Virtual event, Feb 2021
       - layout: top-middle
         title: Journal Papers
         caption:
