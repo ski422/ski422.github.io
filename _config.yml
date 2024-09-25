@@ -122,6 +122,8 @@ content:
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
+          - Minwoo Ahn, Nayeon Kim, Chunkyu Park, and Jinkyu Jeong, "Performance Analysis of HPCG Benchmark," Korean Society for Computational Science and Engineering, Sep. 2024.
+
           - Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Parallel Filter/Index Access for Improving Read Performance of LSM-Tree," KIISE Transactions on Computing Practice (KTCP), Sep. 2023.
             - Invited Paper (Excellent Presentation Award)
 
@@ -177,6 +179,7 @@ content:
 #quote: >
 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          - [Conference Talk, KSCSE \'24] "Performance Analysis of HPCG Benchmark", Jul 2024
           - [Conference Talk, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
           - [Poster Session, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
           - [Workshop, KCC \'24] "Light-weighted Causal Profiler for Exascale Computing", Jun 2024
