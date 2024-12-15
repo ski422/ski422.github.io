@@ -178,6 +178,7 @@ content:
 #quote: >
 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          - [Invited Talk, KSC \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Dec 2024
           - [Conference Talk, KSCSE \'24] "Performance Analysis of HPCG Benchmark", Jul 2024
           - [Conference Talk, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
           - [Poster Session, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
