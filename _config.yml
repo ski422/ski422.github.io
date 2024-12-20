@@ -94,7 +94,7 @@ content:
         caption: 2010 - 2013
         sub_title: 
         description: | # this will include new lines to allow paragraphs
-#In high school, I mainly took courses on object-oriented programming and data structures, while also having a passion for mathematics and physics.
+          - Object-oriented programming and data structures, while also having a passion for mathematics and physics.
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
