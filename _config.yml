@@ -59,6 +59,12 @@ content:
     layout: list
     content:
       - layout: left
+        title: Google Cloud
+        caption: Feb. 2025 - Present
+        sub_title: Student Researcher
+        description:
+
+      - layout: left
         title: Scalable Systems Software Laboratory
         caption: Mar. 2023 - Present
         sub_title: Dispatched Researcher (Advised by Jinkyu Jeong)
@@ -193,6 +199,7 @@ content:
   - title: Awards and Honors
     layout: text
     content: |
+      - Superior Research Award - Sungkyunkwan University, 2025
       - Certificate of Appreciation - Korean Institute of Information Scientists and Engineers, 2024
       - Excellent Poster Prize - Computer Systems Society, 2024
       - Excellent Presentation Prize - Korea Software Congress, 2022
