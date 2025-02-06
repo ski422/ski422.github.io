@@ -53,13 +53,13 @@ about_content: | # this will include new lines to allow paragraphs
   My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 
   - Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
-  - The PDF version of CV is available at [here](https://drive.google.com/file/d/1xsEezAz4kYvyiIcClFJyUbzz31hILERK/view?usp=sharing).
+  - The PDF version of CV is available at [here](https://drive.google.com/file/d/1bo1c4PqymDpVXa6lX2KR7zR6OSil8jk6/view?usp=sharing).
 content:
   - title: Research Experience
     layout: list
     content:
       - layout: left
-        title: Google Cloud
+        title: Google
         caption: Feb. 2025 - Present
         sub_title: Student Researcher
         description:
