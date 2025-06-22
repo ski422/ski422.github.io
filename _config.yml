@@ -129,7 +129,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Minjun Kim, Dongoh Kim, Minwoo Ahn, and Jinkyu Jeong, "MP-BCOZ: A Causal Profiler for Multi-Process Applications," Korea Computer Congress, July. 2025.
 
-          - Gaeul Kim, Donghyun Ko, Minwoo Ahn, and Jinkyu Jeong, "Performance Analysis of Large-Scale Data Loading Techniques in LSM-Tree Based Key-Value Store," Korea Computer Congress, July. 2025.
+          - Gaeul Kim, Minwoo Ahn, Donghyun Ko, and Jinkyu Jeong, "Performance Analysis of Large-Scale Data Loading Techniques in LSM-Tree Based Key-Value Store," Korea Computer Congress, July. 2025.
 
           - Nayeon Kim, Seungwon Ha, Minwoo Ahn, and Jinkyu Jeong, "On-Deivce Large Language Model Inference with UFS-Based Storage," Korea Computer Congress, July. 2025.
 
