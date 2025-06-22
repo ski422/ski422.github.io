@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
 
-  - Interests - Operating Systems, Storage Systems, Database Systems, Systems for AI, Performance Analysis
+  - Interests - Operating Systems, System Performance Analysis, Storage Systems, Database Systems, Systems for AI
   - The PDF version of CV is available at [here](https://drive.google.com/file/d/1bo1c4PqymDpVXa6lX2KR7zR6OSil8jk6/view?usp=sharing).
 content:
   - title: Research Experience
@@ -60,7 +60,7 @@ content:
     content:
       - layout: left
         title: Google
-        caption: Feb. 2025 - Present
+        caption: Feb. 2025 - June. 2025
         sub_title: Student Researcher
         description:
 
@@ -84,7 +84,7 @@ content:
         caption: 2017 - Present
         sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          - Proposal: Reserach on Application Performance Profiling Technique in Heterogeneous Computing Environments
+          - Proposal: Application-level and System-wide Performance Profiling
 
           - Advisor: Jinkyu Jeong (in Yonsei University)
       - layout: left
@@ -127,7 +127,14 @@ content:
         caption:
         sub_title:
         description: | # this will include new lines to allow paragraphs
-          - Minwoo Ahn, Jinkyu Jeong, "Simultaneous On-CPU and Off-CPU Performance Profiling of Applications Using bperf and BCOZ," Communications of the Korean Institute of Information Scientists and Engineers, Mar. 2025 (to appear).
+          - Minjun Kim, Dongoh Kim, Minwoo Ahn, and Jinkyu Jeong, "MP-BCOZ: A Causal Profiler for Multi-Process Applications," Korea Computer Congress, July. 2025.
+
+          - Gaeul Kim, Donghyun Ko, Minwoo Ahn, and Jinkyu Jeong, "Performance Analysis of Large-Scale Data Loading Techniques in LSM-Tree Based Key-Value Store," Korea Computer Congress, July. 2025.
+
+          - Nayeon Kim, Seungwon Ha, Minwoo Ahn, and Jinkyu Jeong, "On-Deivce Large Language Model Inference with UFS-Based Storage," Korea Computer Congress, July. 2025.
+
+          - Minwoo Ahn, Jinkyu Jeong, "Simultaneous On-CPU and Off-CPU Performance Profiling of Applications Using bperf and BCOZ," Communications of the Korean Institute of Information Scientists and Engineers, Mar. 2025.
+
           - Minwoo Ahn, Nayeon Kim, Chunkyu Park, and Jinkyu Jeong, "Performance Analysis of HPCG Benchmark," Korean Society for Computational Science and Engineering, Sep. 2024.
 
           - Jeongmin Han, Minwoo Ahn, and Jinkyu Jeong, "Parallel Filter/Index Access for Improving Read Performance of LSM-Tree," KIISE Transactions on Computing Practice (KTCP), Sep. 2023.
@@ -195,6 +202,7 @@ content:
   - title: Professional Activities
     layout: text
     content: |
+      - Artifact Evaluation Committee, USENIX FAST 2026
       - Artifact Evaluation Committee, EuroSys 2025
 
   - title: Awards and Honors
