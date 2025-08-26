@@ -48,14 +48,14 @@ linkedin_username: minwoo-ahn-684b17317
 # about_title: About Me
 about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Sungkyunkwan University and also a member of Scalable Systems Software Laboratory at Yonsei University advised by prof. Jinkyu Jeong. I received my B.S. degree in the Department of Semi-conductor Systems Engineering at Sungkyunkwan University.
+  I am a post-doctoral research associate in the Department of Computer Science at Yonsei University, a member of the Scalable Systems Software Laboratory supervised by prof. Jinkyu Jeong. I received my Ph.D. degree in the Department of Electrical and Computer Engineering at Sungkyunkwan University and my B.S. degree in the Department of Semiconductor Systems Engineering at Sungkyunkwan University.
 
-  My research areas encompass operating systems, storage systems, database systems, and performance analysis. I mainly research on system profiling and optimization, especially for heterogeneous computing environments that include emerging hardware devices.
+  My research is based in operating systems, centers on performance analysis and optimization. Speficially, I focus on identifying bottlenecks and applying real-world optimizations for large-scale computing environments that incorporate emerging hardware devices.
 
-  - Interests - Operating Systems, System Performance Analysis, Storage Systems, Database Systems, Systems for AI
-  - The PDF version of CV is available at [here](https://drive.google.com/file/d/1bo1c4PqymDpVXa6lX2KR7zR6OSil8jk6/view?usp=sharing).
+  - Interests - Operating Systems, Performance Profiling, Storage Systems, Database Systems, HPC, Systems for AI
+  - The PDF version of CV is available at [here](https://drive.google.com/file/d/1-qM1SdVZ-vWp1FcrQrPJW9PEUX7bSDh-/view?usp=sharing).
 content:
-  - title: Research Experience
+  - title: Experience
     layout: list
     content:
       - layout: left
@@ -66,14 +66,14 @@ content:
 
       - layout: left
         title: Scalable Systems Software Laboratory
-        caption: Mar. 2023 - Present
-        sub_title: Dispatched Researcher (Advised by Jinkyu Jeong)
+        caption: Mar. 2023 - Aug. 2025
+        sub_title: Graduate Research Associate (Advised by Jinkyu Jeong)
         description:
         
       - layout: left
         title: Computer Systems Laboratory
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Graduated Researcher (Advised by Jinkyu Jeong)
+        sub_title: Graduate Research Associate (Advised by Jinkyu Jeong)
         description:
 
   - title: Education # Title for the section
@@ -81,10 +81,10 @@ content:
     content:
       - layout: left
         title: Sungkyunkwan University
-        caption: 2017 - Present
+        caption: 2017 - 2025
         sub_title: Combined M.S./Ph.D. in Electrical and Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          - Proposal: Application-level and System-wide Performance Profiling
+          - Dissertation: Application-level and System-wide Performance Profiling
 
           - Advisor: Jinkyu Jeong (in Yonsei University)
       - layout: left
@@ -192,6 +192,7 @@ content:
 #quote: >
 #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          - [Conference Talk, gRPConf \'25] "Experiences With Integration of Io_uring Into gRPC-C++", Aug 2025
           - [Invited Talk, KSC \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Dec 2024
           - [Conference Talk, KSCSE \'24] "Performance Analysis of HPCG Benchmark", Jul 2024
           - [Conference Talk, OSDI \'24] "Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples", Jul 2024
