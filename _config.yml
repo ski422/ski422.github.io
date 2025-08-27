@@ -61,7 +61,7 @@ content:
       - layout: left
         title: Yonsei University
         caption: Sep. 2025 - Present
-        sub_title: Postdoctoral Research Associate (Supervisor: Jinkyu Jeong)
+        sub_title: Postdoctoral Research Associate
         description:
 
       - layout: left
@@ -71,15 +71,15 @@ content:
         description:
 
       - layout: left
-        title: Scalable Systems Software Laboratory
+        title: Yonsei University
         caption: Mar. 2023 - Aug. 2025
-        sub_title: Graduate Research Associate (Advisor: Jinkyu Jeong)
+        sub_title: Graduate Research Associate
         description:
         
       - layout: left
-        title: Computer Systems Laboratory
+        title: Sungkyunkwan University
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Graduate Research Associate (Advisor: Jinkyu Jeong)
+        sub_title: Graduate Research Associate
         description:
 
   - title: Education # Title for the section
@@ -92,7 +92,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Dissertation: Application-level and System-wide Performance Profiling
 
-          - Advisor: Jinkyu Jeong (in Yonsei University)
+          - Advisor: Jinkyu Jeong
       - layout: left
         title: Sungkyunkwan University
         caption: 2013 - 2017
