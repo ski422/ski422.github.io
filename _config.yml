@@ -59,6 +59,12 @@ content:
     layout: list
     content:
       - layout: left
+        title: Yonsei University
+        caption: Sep. 2025 - Present
+        sub_title: Postdoctoral Research Associate (Supervisor: Jinkyu Jeong)
+        description:
+
+      - layout: left
         title: Google
         caption: Feb. 2025 - June. 2025
         sub_title: Student Researcher
@@ -67,13 +73,13 @@ content:
       - layout: left
         title: Scalable Systems Software Laboratory
         caption: Mar. 2023 - Aug. 2025
-        sub_title: Graduate Research Associate (Advised by Jinkyu Jeong)
+        sub_title: Graduate Research Associate (Advisor: Jinkyu Jeong)
         description:
         
       - layout: left
         title: Computer Systems Laboratory
         caption: Mar. 2017 - Feb. 2023
-        sub_title: Graduate Research Associate (Advised by Jinkyu Jeong)
+        sub_title: Graduate Research Associate (Advisor: Jinkyu Jeong)
         description:
 
   - title: Education # Title for the section
